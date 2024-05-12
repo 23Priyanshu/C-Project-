@@ -25,11 +25,6 @@ This C++ program converts a video to MP3 using yt-dlp, a command-line program to
 4. **Input URL**: Enter the URL of the video you want to convert to MP3 when prompted.
 5. **Conversion**: The program will convert the video to MP3 using `yt-dlp`.
 
-### License
-
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
-for details.
 
 ### Code Explanation
 
